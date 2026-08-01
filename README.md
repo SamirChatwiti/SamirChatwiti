@@ -38,7 +38,7 @@ Cryptographic digital-evidence and proof-of-presence platform using timestamps, 
 Secure offline-first mobile field-operations platform with mission tracking, GPS proof of presence, document scanning and institutional synchronization.
 
 #### [E-Invoice Validation APIs](https://github.com/SamirChatwiti/e-invoice-validators)
-Keyless pre-flight validation APIs for legally mandated e-invoicing regimes — Malaysia (MyInvois/LHDN), Dominican Republic (DGII e-CF), Nigeria (NRS/FIRS), Bolivia (SIAT) and Costa Rica (Hacienda v4.4). Official XSDs, country business rules, control codes (CUF, clave) and digital-signature verification, delivered as commercial REST APIs on RapidAPI.
+Keyless pre-flight validation APIs for legally mandated e-invoicing regimes — Malaysia (MyInvois/LHDN), Dominican Republic (DGII e-CF), Nigeria (NRS/FIRS), Bolivia (SIAT) and Costa Rica (Hacienda v4.4). Official XSDs, country business rules, control codes (CUF, clave) and digital-signature verification, delivered as commercial REST APIs on RapidAPI and Zyla API Hub.
 
 ### Technology stack
 
